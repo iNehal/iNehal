@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **nehaluddin712@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/md-nehal-uddin-1052b224b](www.linkedin.com/in/md-nehal-uddin-1052b224b)
-
 - ⚡ Fun fact **I'M BATMAN**
 
 <h3 align="left">Connect with me:</h3>
