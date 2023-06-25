@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-<h1 align="center">Hi 👋, I'm MD.Nehal Uddin</h1>
+<h1 align="center">Hi 👋, I'm MD. Nehal Uddin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inehal&label=Profile%20views&color=0e75b6&style=flat" alt="inehal" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
