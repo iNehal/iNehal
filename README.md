@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, ML, DL, Photoshop**
+- 💬 Ask me about **Python, ML, NLP, DL, CV**
 
 - 📫 How to reach me **nehaluddin712@gmail.com**
 
